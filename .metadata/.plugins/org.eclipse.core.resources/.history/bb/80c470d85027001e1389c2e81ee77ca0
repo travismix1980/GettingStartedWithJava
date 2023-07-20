@@ -12,7 +12,7 @@ public class LearningArrays {
 //		System.out.println(values[100]); // throws an error
 		String[] words = new String[] {"My", "name", "is"};
 		System.out.println(words[2]); // print "is"
-		// try to print an integer as a double
+		// try to print a int as a double
 		System.out.println((double)values[99]);
 	}
 
