@@ -11,7 +11,7 @@ public class LearningArrays {
 		System.out.println(values[99]);
 //		System.out.println(values[100]); // throws an error
 		String[] words = new String[] {"My", "name", "is"};
-		System.out.println(words[2]); // print is
+		System.out.println(words[-1]);
 	}
 
 }
