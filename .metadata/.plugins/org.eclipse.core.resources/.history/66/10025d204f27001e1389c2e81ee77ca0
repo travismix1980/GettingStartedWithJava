@@ -7,9 +7,8 @@ public class LearningArrays {
 		values[0] = 1000;
 		values[99] = 93432;
 		System.out.println(values[0]);
-		System.out.println(values[1]);
 		System.out.println(values[99]);
-//		System.out.println(values[100]); // throws an error
+		System.out.println(values[100]); // throws an error
 	}
 
 }
