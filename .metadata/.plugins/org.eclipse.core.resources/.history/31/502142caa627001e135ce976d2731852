@@ -1,0 +1,18 @@
+package java_basics;
+
+public class LearningMethods {
+
+	public static void main(String[] args) {
+		int number = 34;
+		printSomeJunk("Some blah blah blah");
+		printSomeJunk(number);
+	}
+	
+	public static void printSomeJunk(String whatToPrint) {
+		System.out.println(whatToPrint);
+	}
+	
+	public static void printSomeJunk(int whatToPrint) {
+		System.out.println(whatToPrint);
+	}
+}

@@ -8,8 +8,6 @@ public class LearningMethods {
 		MyUtils.printSomeJunk("Some blah blah blah");
 		MyUtils.printSomeJunk(number);
 		MyUtils.sumTwoNumbers(10, 23);
-		int myVar = MyUtils.addTen(99);
-		System.out.println(myVar);
-		
+		System.out.println(MyUtils.addTen(5));
 	}
 }

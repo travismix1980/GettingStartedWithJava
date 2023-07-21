@@ -1,0 +1,12 @@
+package java_basics;
+
+public class MyUtils {
+	
+	public static void printSomeJunk(String whatToPrint) {
+		System.out.println(whatToPrint);
+	}
+	
+	public static void printSomeJunk(int whatToPrint) {
+		System.out.println(whatToPrint);
+	}
+}

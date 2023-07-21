@@ -7,9 +7,5 @@ public class LearningMethods {
 		int number = 34;
 		MyUtils.printSomeJunk("Some blah blah blah");
 		MyUtils.printSomeJunk(number);
-		MyUtils.sumTwoNumbers(10, 23);
-		int myVar = MyUtils.addTen(99);
-		System.out.println(myVar);
-		
 	}
 }

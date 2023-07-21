@@ -1,0 +1,12 @@
+package java_basics;
+
+public class LearningMethods {
+
+	public static void main(String[] args) {
+		printSomeJunk();
+	}
+	
+	public static void printSomeJunk() {
+		System.out.println("Some blah blah blah");
+	}
+}
